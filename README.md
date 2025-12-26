@@ -27,6 +27,9 @@ Each story can have multiple labels. The project addresses **class imbalance** a
 - Custom thresholds for weaker labels
 - Positive class weights to overcome class imbalance
 
+
+> For a detailed explanation of the training process, metrics, models, and architectural choices, please refer to the [report](report.pdf) included in the repository.
+
 ## Results
 
 ### F1-Score by Model
